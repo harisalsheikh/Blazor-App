@@ -1,0 +1,34 @@
+﻿@page "/hypercarsoverview"
+
+<h2>A List Of All The Hyper Cars</h2>
+
+@if(hyperCars == null){
+    <p><em>Data still loading...</em></p>
+}
+else{
+
+    <table clase="table table-light">
+        <thead class="table-primary">
+            <tr>
+                <th>Hyper Car</th>
+                <th>Horse Power</th>
+                <th>Engine Size</th>
+                <th>Top Speed</th>
+                <th>Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var hyperCar in hyperCars)
+            {
+                <tr>
+                    <td>@hyperCar.CarName</td>
+                    <td>@hyperCar.HorsePower</td>
+                    <td>@hyperCar.Engine</td>
+                    <td>@hyperCar.TopSpeed</td>
+                    <td>@hyperCar.Cost</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

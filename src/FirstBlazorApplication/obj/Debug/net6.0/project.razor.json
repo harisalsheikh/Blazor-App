@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -1504682529,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApplication.Pages.Index",
-        "AssemblyName": "FirstBlazorApplication",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApplication.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 694046969,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApplication.Pages.Index",
-        "AssemblyName": "FirstBlazorApplication",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FirstBlazorApplication.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApplication.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -215402103,
         "Kind": "Components.Component",
         "Name": "FirstBlazorApplication.Pages.FetchData",
@@ -103,6 +70,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "FirstBlazorApplication.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1504682529,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApplication.Pages.Index",
+        "AssemblyName": "FirstBlazorApplication",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApplication.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 694046969,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApplication.Pages.Index",
+        "AssemblyName": "FirstBlazorApplication",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApplication.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApplication.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

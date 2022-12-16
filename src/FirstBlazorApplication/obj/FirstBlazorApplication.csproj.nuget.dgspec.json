@@ -1,26 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/FirstBlazorApplication.csproj": {}
+    "C:\\Users\\haris\\Blazor-App\\src\\FirstBlazorApplication\\FirstBlazorApplication.csproj": {}
   },
   "projects": {
-    "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/FirstBlazorApplication.csproj": {
+    "C:\\Users\\haris\\Blazor-App\\src\\FirstBlazorApplication\\FirstBlazorApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/FirstBlazorApplication.csproj",
+        "projectUniqueName": "C:\\Users\\haris\\Blazor-App\\src\\FirstBlazorApplication\\FirstBlazorApplication.csproj",
         "projectName": "FirstBlazorApplication",
-        "projectPath": "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/FirstBlazorApplication.csproj",
-        "packagesPath": "/Users/harisalsheikh/.nuget/packages/",
-        "outputPath": "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/obj/",
+        "projectPath": "C:\\Users\\haris\\Blazor-App\\src\\FirstBlazorApplication\\FirstBlazorApplication.csproj",
+        "packagesPath": "C:\\Users\\haris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haris\\Blazor-App\\src\\FirstBlazorApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/harisalsheikh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\haris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +67,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.11, 6.0.11]"
+              "version": "[6.0.10, 6.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -71,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

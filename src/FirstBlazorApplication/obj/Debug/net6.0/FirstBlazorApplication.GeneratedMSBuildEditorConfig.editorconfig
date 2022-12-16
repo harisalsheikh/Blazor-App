@@ -5,41 +5,43 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = FirstBlazorApplication
 build_property.RootNamespace = FirstBlazorApplication
-build_property.ProjectDir = /Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/
+build_property.ProjectDir = C:\Users\haris\Blazor-App\src\FirstBlazorApplication\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication
+build_property.MSBuildProjectDirectory = C:\Users\haris\Blazor-App\src\FirstBlazorApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/App.razor]
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/Pages/HyperCarsOverview.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSHlwZXJDYXJzT3ZlcnZpZXcucmF6b3I=
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/HyperCarsOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSHlwZXJDYXJzT3ZlcnZpZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/_Imports.razor]
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-c8s94v9w0g
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p9vm55kbow
 
-[/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-6xwerp6lcl
+[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7g5vbpri5u

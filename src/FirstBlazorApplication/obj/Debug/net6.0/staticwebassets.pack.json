@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
+      "Id": "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/wwwroot/css/my-styless.css",
+      "PackagePath": "staticwebassets/css/my-styless.css"
+    },
+    {
       "Id": "/Users/harisalsheikh/Documents/GitHub/Blazor-App/src/FirstBlazorApplication/wwwroot/css/open-iconic/FONT-LICENSE",
       "PackagePath": "staticwebassets/css/open-iconic"
     },

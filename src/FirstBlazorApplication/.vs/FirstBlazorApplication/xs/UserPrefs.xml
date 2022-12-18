@@ -1,10 +1,24 @@
 ﻿<Properties StartupConfiguration="{310D2A31-7711-40ED-9F64-61EF93B29E34}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/NavMenu.razor.css">
+    <Files>
+      <File FileName="Shared/NavMenu.razor" Line="16" Column="15" IsPinned="True" />
+      <File FileName="Shared/NavMenu.razor.css" Line="2" Column="52" />
+      <File FileName="Shared/MainLayout.razor" Line="14" Column="1" />
+      <File FileName="Shared/MainLayout.razor.css" Line="18" Column="38" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstBlazorApplication" expanded="True">
-            <Node name="FirstBlazorApplication" expanded="True" selected="True" />
+            <Node name="FirstBlazorApplication" expanded="True">
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

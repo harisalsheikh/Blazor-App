@@ -2,9 +2,21 @@
     background: #1F1b24;
 }
 
-h1, h2, p, li {
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, li {
+    font-family: 'Public Sans', sans-serif;
+}
+
+h1, h3, p, li {
     color: #fff;
     line-height: 2rem;
+}
+
+ul {
+    padding-left: initial;
 }
 
 .socials{
@@ -29,4 +41,8 @@ ul .socials {
 
 .socials li a:hover {
     color: #11ABB0;
+}
+
+.socials ion-icon {
+    font-size: 50px;
 }

@@ -25,6 +25,7 @@ jobs:
       run: |
         pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
         dotnet build --configuration Release --output ./output
+        working-directory: HyperCarFunctions
         popd
     - name: 'Run Azure Functions action'
       uses: Azure/functions-action@v1

@@ -11,37 +11,37 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = FirstBlazorApplication
 build_property.RootNamespace = FirstBlazorApplication
-build_property.ProjectDir = C:\Users\haris\Blazor-App\src\FirstBlazorApplication\
+build_property.ProjectDir = c:\Users\haris\Blazor-App\src\FirstBlazorApplication\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\haris\Blazor-App\src\FirstBlazorApplication
+build_property.MSBuildProjectDirectory = c:\Users\haris\Blazor-App\src\FirstBlazorApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/App.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/FetchData.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/HyperCarsOverview.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/HyperCarsOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSHlwZXJDYXJzT3ZlcnZpZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/Index.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/_Imports.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/MainLayout.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-p9vm55kbow
 
-[C:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/NavMenu.razor]
+[c:/Users/haris/Blazor-App/src/FirstBlazorApplication/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7g5vbpri5u
